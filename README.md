@@ -1,5 +1,5 @@
 # Code-visualizer
-A Open Source Project Started By Me
+A Open Source Project
 
 By Using Our Platform Student Will Get To Know Where There Code Break Or Goes Under Infinite Loop
 
